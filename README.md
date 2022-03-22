@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JBonifacio
+- 💼 I work in educational technology (Ed-Tech) in the quality assurance and testing space.
+- 🌱 I’m currently learning on leading as a Director of Quality Assurance.
